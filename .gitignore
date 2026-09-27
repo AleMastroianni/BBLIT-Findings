@@ -1,0 +1,22 @@
+# Operating system leftovers
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor leftovers
+*.bak
+*.tmp
+*~
+
+# Nothing of the game enters this repository
+*.bze
+*.xa
+*.exe
+*.bin
+*.vrm
+*.lev
+
+# Python caches, should a script ever be run here
+__pycache__/
+*.pyc
+.venv/
